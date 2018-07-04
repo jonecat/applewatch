@@ -1,8 +1,19 @@
-<html>
-<body>
-<br>
-<br>
-<center><h1>AppleWatch.info</h1>
-<p>Site Coming Soon</p></cneter>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="wrapper">
+
+  <div class="row">
+    <div class="post-list">
+      {% for post in paginator.posts %}
+        {% include post-card.html %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row row--full">
+    {% include pagination.html %}
+  </div>
+
+</div>
