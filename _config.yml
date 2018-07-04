@@ -10,9 +10,9 @@ title:            Midan
 email:            your-email@domain.com
 description:      Clean and Fast Jekyll Blog Theme
 baseurl:          '' # The subpath of your site, e.g. /blog
-url:              'http://midan-jekyll.aspirethemes.com' # The base hostname & protocol for your site
-github_username:  aspirethemes
-twitter_username: aspirethemes
+url:              'http://applewatch.info' # The base hostname & protocol for your site
+github_username:  jonecat
+twitter_username: jonecat
 
 markdown:  kramdown
 permalink: pretty
