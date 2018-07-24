@@ -13,6 +13,8 @@
     transition: $base-transition-speed;
     text-decoration: none;
     letter-spacing: 1px;
+    font-size: 1.3em;
+    font-weight: 500;
 
     &:hover { color: $color__type--hover; }
   }

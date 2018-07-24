@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            The Apple Watch Blog
+title:            AppleWatchInfo
 email:            your-email@domain.com
 description:      Latest Apple Watch news and information
 baseurl:          '' # The subpath of your site, e.g. /blog

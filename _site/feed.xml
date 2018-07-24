@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Apple Watch Blog</title>
+    <title>AppleWatchInfo</title>
     <description>Latest Apple Watch news and information</description>
     <link>http://applewatch.info/</link>
     <atom:link href="http://applewatch.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jul 2018 19:08:27 -0700</pubDate>
-    <lastBuildDate>Mon, 23 Jul 2018 19:08:27 -0700</lastBuildDate>
+    <pubDate>Mon, 23 Jul 2018 21:32:02 -0700</pubDate>
+    <lastBuildDate>Mon, 23 Jul 2018 21:32:02 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
 
     
