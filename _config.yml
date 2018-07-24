@@ -11,8 +11,8 @@ email:            contact@applewatch.info
 description:      The Latest Apple Watch News and Information
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'http://applewatch.info' # The base hostname & protocol for your site
-github_username:  jonecat
-twitter_username: jonecat
+github_username:
+twitter_username: applewatchdot
 
 markdown:  kramdown
 permalink: pretty
@@ -47,10 +47,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:             Ahmad Ajmi
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:            info@aspirethemes.com
-    website:          http://aspirethemes.com
-    github_username:  ahmadajmi
-    twitter_username: ahmadajmi
+    name:             Jon Lawrence
+    bio:              Just a guy that loves his Apple Watch
+    gravatar:         http://1.gravatar.com/avatar/a8dd3eceb108cca9eb3b318068fcc188?s=96&d=mm&r=g
+    email:            contact@applewatch.info
+    website:          http://applewatch.info
+    github_username:
+    twitter_username: jonecat
