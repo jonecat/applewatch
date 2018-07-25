@@ -3,7 +3,6 @@ layout: post
 title: Want the Nike Sport Look For Cheap
 featured: true
 author: Jon
-tags: [band, nike, sport, silicone]
 image: '/images/posts/2018-07-25-nike-sport-band-01.jpg'
 ---
 
