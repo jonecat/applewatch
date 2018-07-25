@@ -2,7 +2,8 @@
 layout: post
 title: Hello World
 featured: true
-author: Jon Lawrence
+author: Jon
+tags: [hello, world]
 image: '/images/posts/applewatchtest.jpg'
 ---
 
