@@ -3,7 +3,6 @@ layout: post
 title: Welcome to AppleWatchInfo
 featured: true
 author: Jon
-tags: [hello, world]
 image: '/images/posts/2018-07-23-welcome-to-applewatchinfo.jpg'
 ---
 
