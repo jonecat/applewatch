@@ -2,13 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AppleWatchInfo</title>
-    <description>Latest Apple Watch news and information</description>
-    <link>http://applewatch.info/</link>
-    <atom:link href="http://applewatch.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jul 2018 03:10:07 -0700</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 03:10:07 -0700</lastBuildDate>
+    <description>The Latest Apple Watch News and Information</description>
+    <link>https://applewatch.info/</link>
+    <atom:link href="https://applewatch.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Jul 2018 21:14:40 -0700</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 21:14:40 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
 
+    
+      <item>
+        <title>Is this what the Series 4 will look like?</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cconceptcreator?lang=en&quot; target=&quot;_blank&quot;&gt;Concept Creator&lt;/a&gt; is back at it again with fresh take on the upcoming Series 4 Apple Watch. The primary change is the increase in display size, this is something that has been rumored all the way back in March by &lt;a href=&quot;https://9to5mac.com/2018/03/27/new-apple-watch-larger-screen-series-4/&quot; target=&quot;_blank&quot;&gt;Ming-Chi Kuo&lt;/a&gt; on 9To5Mac. If true, this will be the first departure from the original design introduced over 3 years ago.&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;height:0;padding-bottom:56.21%&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/1VI1qubRimA?ecver=2&quot; style=&quot;position:absolute;width:100%;height:100%;left:0&quot; width=&quot;641&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;If the display size does end up getting increased by the rumored 15%, I am curios how this will impact battery performance. Will the next &lt;a href=&quot;https://en.wikipedia.org/wiki/System_on_a_chip&quot; target=&quot;_blank&quot;&gt;SOC&lt;/a&gt; be able to make up for the display power draw increase?&lt;/p&gt;
+
+&lt;p&gt;If the last two Apple Watch releases are any indicators on timing, we should find out come late September.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 00:00:00 -0700</pubDate>
+        <link>https://applewatch.info/2018/07/26/concept-creator-series-4-concept/</link>
+        <guid isPermaLink="true">https://applewatch.info/2018/07/26/concept-creator-series-4-concept/</guid>
+      </item>
     
       <item>
         <title>Want the Nike Sport Look For Cheap</title>
@@ -29,8 +44,8 @@
 &lt;p&gt;Buy from Amazon here: &lt;a href=&quot;https://amzn.to/2uOyRGG&quot; target=&quot;_blank&quot;&gt;https://amzn.to/2uOyRGG&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://applewatch.info/2018/07/25/nike-sport-band/</link>
-        <guid isPermaLink="true">http://applewatch.info/2018/07/25/nike-sport-band/</guid>
+        <link>https://applewatch.info/2018/07/25/nike-sport-band/</link>
+        <guid isPermaLink="true">https://applewatch.info/2018/07/25/nike-sport-band/</guid>
       </item>
     
       <item>
@@ -48,8 +63,8 @@
 &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/n1elRfYEnl8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://applewatch.info/2018/07/23/hello-world/</link>
-        <guid isPermaLink="true">http://applewatch.info/2018/07/23/hello-world/</guid>
+        <link>https://applewatch.info/2018/07/23/hello-world/</link>
+        <guid isPermaLink="true">https://applewatch.info/2018/07/23/hello-world/</guid>
       </item>
     
   </channel>
