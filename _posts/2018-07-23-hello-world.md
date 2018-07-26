@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to AppleWatchInfo
-featured: true
+featured: false
 author: Jon
 image: '/images/posts/2018-07-23-welcome-to-applewatchinfo.jpg'
 ---

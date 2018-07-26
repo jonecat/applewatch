@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want the Nike Sport Look For Cheap
-featured: true
+featured: false
 author: Jon
 image: '/images/posts/2018-07-25-nike-sport-band-01.jpg'
 ---

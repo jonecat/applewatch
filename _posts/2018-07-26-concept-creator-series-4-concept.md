@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is this what the Series 4 will look like?
-featured: true
+featured: false
 author: Jon
 image: '/images/posts/2018-07-26-concept-creator-series-4-concept.jpg'
 ---
