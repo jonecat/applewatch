@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AppleWatchInfo</title>
+    <title>Apple Watch Info</title>
     <description>The Latest Apple Watch News and Information</description>
     <link>https://applewatch.info/</link>
     <atom:link href="https://applewatch.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jul 2018 21:21:08 -0700</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 21:21:08 -0700</lastBuildDate>
+    <pubDate>Sat, 28 Jul 2018 10:55:38 -0700</pubDate>
+    <lastBuildDate>Sat, 28 Jul 2018 10:55:38 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
 
+    
+      <item>
+        <title>65+ New Features in WatchOS 5</title>
+        <description>&lt;p&gt;We all know that WatchOS 5 is fast approaching. While we wait, I found a great video by the guys over at &lt;a href=&quot;https://appleinsider.com/articles/18/06/08/65-new-features-in-watchos-5-for-apple-watch&quot;&gt;Apple Insider&lt;/a&gt; that goes over a lot of new features that are available in the WatchOS 5.&lt;/p&gt;
+
+&lt;p&gt;One notable missing feature I would love… 3rd party watch faces! Apple please make this a thing!!!&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;height:0;padding-bottom:40.42%&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/pmzOZlPYCds?ecver=2&quot; style=&quot;position:absolute;width:100%;height:100%;left:0&quot; width=&quot;891&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jul 2018 00:00:00 -0700</pubDate>
+        <link>https://applewatch.info/2018/07/27/new-features-watchos-5/</link>
+        <guid isPermaLink="true">https://applewatch.info/2018/07/27/new-features-watchos-5/</guid>
+      </item>
     
       <item>
         <title>Is this what the Series 4 will look like?</title>
@@ -49,9 +66,8 @@ If the display size does end up getting increased by the rumored 15%, I am curio
       </item>
     
       <item>
-        <title>Welcome to AppleWatchInfo</title>
-        <description>&lt;h3 id=&quot;a-fresh-approach&quot;&gt;A Fresh Approach&lt;/h3&gt;
-&lt;p&gt;Hi my Name is &lt;a href=&quot;https://twitter.com/jonecat&quot; target=&quot;_blank&quot;&gt;Jon Lawrence&lt;/a&gt; founder and owner of AppleWatchInfo. This is a simple yet focused site, dedicated to bringing you the freshest Apple Watch content.&lt;/p&gt;
+        <title>Welcome to Apple Watch Info</title>
+        <description>&lt;p&gt;Hi my Name is &lt;a href=&quot;https://twitter.com/jonecat&quot; target=&quot;_blank&quot;&gt;Jon Lawrence&lt;/a&gt; founder and owner of Apple Watch Info. This is a simple yet focused site, dedicated to bringing you the freshest Apple Watch content.&lt;/p&gt;
 
 &lt;p&gt;While this is just the start, we plan on brining you the freshest news and reviews about the Apple Watch and its’ accessories. This means both compiling stories from around the web and providing our own original content.&lt;/p&gt;
 
