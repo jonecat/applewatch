@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Welcome to AppleWatchInfo
+title: Welcome to Apple Watch Info
 featured: false
 author: Jon
 image: '/images/posts/2018-07-23-welcome-to-applewatchinfo.jpg'
 ---
 
-### A Fresh Approach
-Hi my Name is [Jon Lawrence](https://twitter.com/jonecat){:target="_blank"} founder and owner of AppleWatchInfo. This is a simple yet focused site, dedicated to bringing you the freshest Apple Watch content.
+Hi my Name is [Jon Lawrence](https://twitter.com/jonecat){:target="_blank"} founder and owner of Apple Watch Info. This is a simple yet focused site, dedicated to bringing you the freshest Apple Watch content.
 
 While this is just the start, we plan on brining you the freshest news and reviews about the Apple Watch and its' accessories. This means both compiling stories from around the web and providing our own original content.
 
