@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Series 4&#58; New Display, Same Case
+title: Apple Watch Series 4 &#58; New Display, Same Case
 featured: false
 author: Jon
 image: '/images/posts/2018-07-28-new-display-same-case.jpg'
