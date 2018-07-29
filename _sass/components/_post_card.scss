@@ -6,7 +6,6 @@
   margin-bottom: $line-height__medium;
   border-bottom: 1px solid $border-color;
   background: #fff;
-  border-radius: 8px;
 
   &__header {
     margin-bottom: half($line-height__base);
@@ -14,7 +13,6 @@
 
   &__image {
     transition: $base-transition-speed;
-    border-radius: 8px 8px 0px 0px
   }
 
   &__info {
